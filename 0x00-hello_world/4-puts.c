@@ -1,11 +1,12 @@
-#include<Madd stuff.h>
+#include<stdio.h>
+
 /**
-*main - i have to go
-*Description: Doing my best
+*main - print the string in the put funtion
+*Description: using the main funtion
 *this program prints "Programming is like building a multilingual puzzle
 * Return: 0
 */
- int main(void)
+int main(void)
 {
 	puts("\"Programming is like building a multilingual puzzle");
 	return (0);
