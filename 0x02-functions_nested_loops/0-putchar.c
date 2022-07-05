@@ -1,20 +1,22 @@
 #include "main.h"
 
 /**
- * main - the function starts here
- * Description - prints out Holberton followed by a new line
- * Return: Function returns 0.
+ * main - prints Putchar
+ *
+ * Description - prints _putchar
+ *
+ * Return: 0 (success).
  */
 int main(void)
 {
-_putchar('H');
-_putchar('o');
-_putchar('l');
-_putchar('b');
-_putchar('e');
+_putchar('P');
+_putchar('u');
 _putchar('t');
-_putchar('o');
-_putchar('n');
+_putchar('c');
+_putchar('h');
+_putchar('a');
+_putchar('r');
 _putchar('\n');
+
 return (0);
 }
